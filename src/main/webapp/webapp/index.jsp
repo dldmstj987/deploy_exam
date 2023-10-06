@@ -1,5 +1,5 @@
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
-<%response.sendRedirect("welcome/welcome");%>
+<%response.sendRedirect("welcome/welcome"); %>
 <!DOCTYPE html>
 <html>
 <head>
